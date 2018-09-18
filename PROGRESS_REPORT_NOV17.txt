@@ -1,0 +1,33 @@
+What is the status of your project?
+
+•We have completed Part 1 of the project.
+
+
+<<<<<<< HEAD
+
+1.We have completed Part 1 of the Project.
+
+What has each team done to ensure the success of the team?
+
+1.We divided certain components of Part 1 and pushed the changes to the repository.
+
+
+=======
+What has each team member done to ensure the success of the team?
+
+•We divided certain components of Part 1 and pushed the changes to the repository.
+•Harsha set up the iterator structure for the main method, and coded two methods.
+•Blake also coded two methods.
+>>>>>>> f5c4f49c491b823f5187f81b0c97b3d49e386299
+
+
+What can each team member do going forward to ensure the success of the team?
+
+<<<<<<< HEAD
+1.We have to divide work among us equally and do the coding.
+2.If there are dependent tasks divided among us, then they should be prioritized high because delaying them would delay the overall completion.
+=======
+•We will divide work among us equally. 
+•If there are dependent tasks divided among us, they will be prioritized because delaying them would delay the project's completion.
+•We will continue to communicate and set goals.
+>>>>>>> f5c4f49c491b823f5187f81b0c97b3d49e386299
