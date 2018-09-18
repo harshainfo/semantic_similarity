@@ -48,4 +48,4 @@ not=0, for=0, certain=0, what=0, ails=0, me=0* *
 ####Cosine similarity####
 The cosine similarity between two vectors 𝑢 = (𝑢1, 𝑢2, . . . , 𝑢n) ) and 𝑣 = (𝑣1, 𝑣2, . . . , 𝑣n)) is
 defined as:
-#### 𝑠𝑖n (𝑢, 𝑣) = 𝑢 ∙ 𝑣 / |u|.|v| = Sum(ui . vi) / Sqrt( Sum (ui^2 . vi^2)) ####
+#### co𝑠𝑖ne similarity (𝑢, 𝑣) = 𝑢 ∙ 𝑣 / |u|.|v| = Sum(ui . vi) / Sqrt( Sum (ui^2 . vi^2)) ####
